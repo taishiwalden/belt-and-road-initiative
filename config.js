@@ -14,12 +14,15 @@ var config = {
         //TODO replace this data with data from the first point in your dataset
         {
             id: "48d352fe5c88b29680f9ce8d7a233191",
-            title: "Jerusalem",
+            title: "Introduction",
             description:
-                "Jerusalem is the capital of Israel.  It is one of the oldest cities in the world, and is considered holy to the three major Abrahamic religions—Judaism, Christianity, and Islam.",
+                "The Belt and Road Initiative (BRI) is a global infrastructure development strategy initiated by the People's Republic of China (PRC) in 2013 to invest in nearly 70 countries and international organizations." +
+                "<br>" +
+                "<br>" +
+                "China’s President Xi Jinping unveiled The Initiative, officially stating that the BRI aims to 'promote the connectivity of Asian, European and African continents and their adjacent seas, establish and strengthen partnerships among the countries along the Belt and Road, set up all-dimensional, multi-tiered and composite connectivity networks, and realize diversified, independent, balanced and sustainable development in these countries.'",
             location: {
-                center: [35.22273, 31.77285],
-                zoom: 12.9,
+                center: [104.402, 33.993],
+                zoom: 3.6,
                 pitch: 0,
                 bearing: 0,
             },
