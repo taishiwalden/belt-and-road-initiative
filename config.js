@@ -3,10 +3,10 @@
 var config = {
     style: "mapbox://styles/taishiwalden/ckzovzbqj000714qnd5m3cdcm", //TODO
     accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
-    title: "JSIS 495 Task Force – Israel and the Middle East", //TODO
-    subtitle: "Centering Palestinian Human Rights: Recommendation For A Coalition", //TODO
-    byline: "By Taishi Walden", //TODO
-    footer: "© Taishi Walden, 2022, Jackson School of International Studies",
+    title: "The Belt and Road Initiative", //TODO
+    subtitle: "The Impacts of the World’s Largest Infrastructure Project", //TODO
+    byline: "By Taishi Walden, Dave Moleske, Nate Constan", //TODO
+    footer: "©2022 Taishi Walden, Dave Moleske, Nate Constan",
     showMarkers: false,
     theme: "light",
     alignment: "left",
