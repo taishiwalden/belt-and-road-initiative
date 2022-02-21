@@ -1,12 +1,12 @@
 // this is for the scrollytelling map
 
 var config = {
-    style: "mapbox://styles/taishiwalden/ckwqsmppt2git14o5d2rnkzgt", //TODO
+    style: "mapbox://styles/taishiwalden/ckzovzbqj000714qnd5m3cdcm", //TODO
     accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
     title: "JSIS 495 Task Force – Israel and the Middle East", //TODO
     subtitle: "Centering Palestinian Human Rights: Recommendation For A Coalition", //TODO
     byline: "By Taishi Walden", //TODO
-    footer: "Taishi Walden, 2021, Jackson School of International Studies",
+    footer: "© Taishi Walden, 2022, Jackson School of International Studies",
     showMarkers: false,
     theme: "light",
     alignment: "left",
