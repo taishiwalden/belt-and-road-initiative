@@ -31,14 +31,14 @@ var config = {
         //TODO Copy-paste more chapters here - one for each point in your dataset!
         {
             id: "5c76ad75992aaac989465955479e2fb4",
-            title: "Gaza Strip",
+            title: "Beijing",
             description:
-                "140 square mile strip of land controlled by Hamas since 2007 and subject to an Israeli blockade ever since, home to almost 2 million Palestinians",
+                "China’s President Xi Jinping unveiled The Initiative, officially stating that the BRI aims to 'promote the connectivity of Asian, European and African continents and their adjacent seas, establish and strengthen partnerships among the countries along the Belt and Road, set up all-dimensional, multi-tiered and composite connectivity networks, and realize diversified, independent, balanced and sustainable development in these countries.'",
             location: {
-                center: [34.422, 31.39543],
-                zoom: 9.92,
-                pitch: 60,
-                bearing: 66.4,
+                center: [116.837, 40.301],
+                zoom: 6.86,
+                pitch: 0,
+                bearing: 0,
             },
         },
 
