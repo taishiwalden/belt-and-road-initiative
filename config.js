@@ -43,10 +43,10 @@ var config = {
         {
             id: "7ba8dfb2d8196a463676254236476581",
             title: "The New Silk Road",
-            description: "Add text here",
+            description: "Add text here about Xian and the start of the New Silk Road",
             location: {
-                center: [34.50321, 31.52424],
-                zoom: 12.15,
+                center: [103.706, 36.704],
+                zoom: 4.98,
                 pitch: 14.5,
                 bearing: 67.16,
             },
