@@ -18,8 +18,8 @@ var config = {
             description:
                 "The Belt and Road Initiative (BRI) is a global infrastructure development strategy initiated by the People's Republic of China (PRC) in 2013 to invest in nearly 70 countries and international organizations.",
             location: {
-                center: [104.402, 33.993],
-                zoom: 3.6,
+                center: [72.823, 23.852],
+                zoom: 2.26,
                 pitch: 0,
                 bearing: 0,
             },
@@ -42,9 +42,8 @@ var config = {
         //TODO Copy-paste more chapters here - one for each point in your dataset!
         {
             id: "7ba8dfb2d8196a463676254236476581",
-            title: "The First Intifada",
-            description:
-                "The First Intifada, or First Palestinian Intifada, was a sustained series of Palestinian protests and violent riots in the West Bank, Gaza Strip, and within Israel. The protests were against the Israeli occupation of the West Bank and Gaza that had begun twenty years prior, in 1967.",
+            title: "The New Silk Road",
+            description: "Add text here",
             location: {
                 center: [34.50321, 31.52424],
                 zoom: 12.15,
@@ -55,9 +54,8 @@ var config = {
         //TODO Copy-paste more chapters here - one for each point in your dataset!
         {
             id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "Home Invasions by the Israeli Defense Forces",
-            description:
-                "Many of the soldiers recall the practice of home invasions during their time in the IDF, in which soldiers would intrude into Palestinian homes in the occupied Palestinian territories (OPT) by force and without permission. Israel views their actions not as invasions, but as legitimate entries into homes performed in accordance with the law as part of their sovereign right to protect their citizens",
+            title: "The New Silk Road",
+            description: "Add text here",
             location: {
                 center: [35.41312, 31.84679],
                 zoom: 11.48,
