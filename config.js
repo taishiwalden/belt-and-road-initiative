@@ -39,11 +39,11 @@ var config = {
             },
         },
 
-        //THE NEW SILK ROAD: Xian, China
+        //THE NEW SILK ROAD: Xian, China            The start of           "THE NEW SILK ROAD"
         {
             id: "7ba8dfb2d8196a463676254236476581",
-            title: "The New Silk Road",
-            description: "Add text here about Xian and the start of the New Silk Road",
+            title: "Xian, China",
+            description: "Add text here about Xian",
             location: {
                 center: [103.706, 36.704],
                 zoom: 4.98,
@@ -54,7 +54,7 @@ var config = {
         //THE NEW SILK ROAD: Almaty, Kazakhstan
         {
             id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "The New Silk Road",
+            title: "Almaty, Kazakhstan",
             description: "Add text here",
             location: {
                 center: [72.558, 45.62],
@@ -65,8 +65,8 @@ var config = {
         },
         //THE NEW SILK ROAD: Samarkand, Uzekistan
         {
-            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "The New Silk Road",
+            id: "qatbspsiyczc7r1pu4zqkrgru08du0g7",
+            title: "Samarkand, Uzekistan",
             description: "Add text here",
             location: {
                 center: [64.907, 40.488],
@@ -77,8 +77,8 @@ var config = {
         },
         //THE NEW SILK ROAD: Dushanbe, Tajikistan
         {
-            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "The New Silk Road",
+            id: "ra7514ik8muffrpz80l1rl839291e1pi",
+            title: "Dushanbe, Tajikistan",
             description: "Add text here",
             location: {
                 center: [69.935, 38.483],
@@ -89,8 +89,8 @@ var config = {
         },
         //THE NEW SILK ROAD: Tehran, Iran
         {
-            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "The New Silk Road",
+            id: "bo1lysqbm6r8wu60e2e86nvmt1n5q8cl",
+            title: "Tehran, Iran",
             description: "Add text here",
             location: {
                 center: [51.216, 36.101],
@@ -101,48 +101,48 @@ var config = {
         },
         //THE NEW SILK ROAD: Istanbul, Turkey
         {
-            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "The New Silk Road",
+            id: "qkvjpfpvj7d2e9uzvbxla01c5vp1k1g5",
+            title: "Istanbul, Turkey",
             description: "Add text here",
             location: {
-                center: [79.033, 42.101],
-                zoom: 5.04,
+                center: [29.572, 41.141],
+                zoom: 7.19,
                 pitch: 0,
                 bearing: 0,
             },
         },
         //THE NEW SILK ROAD: Moscow, Russia
         {
-            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "The New Silk Road",
+            id: "t8prwxafovqw4ieem0w1ymfmsqxazpav",
+            title: "Moscow, Russia",
             description: "Add text here",
             location: {
-                center: [79.033, 42.101],
-                zoom: 5.04,
+                center: [34.487, 55.418],
+                zoom: 4.17,
                 pitch: 0,
                 bearing: 0,
             },
         },
         //THE NEW SILK ROAD: Dusseldorf, Germany
         {
-            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "The New Silk Road",
+            id: "nq6v66f45ow16xzfgo46zdo5o3a7lgo6",
+            title: "Dusseldorf, Germany",
             description: "Add text here",
             location: {
-                center: [79.033, 42.101],
-                zoom: 5.04,
+                center: [3.056, 51.658],
+                zoom: 5.02,
                 pitch: 0,
                 bearing: 0,
             },
         },
-        //THE NEW SILK ROAD: Venice, Italy
+        //THE NEW SILK ROAD: Venice, Italy            THE END OF            "THE NEW SILK ROAD"
         {
-            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
-            title: "The New Silk Road",
+            id: "c2hd1f3zxj4jyq1lolqvptdblutdmuoh",
+            title: "Venice, Italy",
             description: "Add text here",
             location: {
-                center: [79.033, 42.101],
-                zoom: 5.04,
+                center: [11.37, 45.634],
+                zoom: 7.39,
                 pitch: 0,
                 bearing: 0,
             },
