@@ -11,7 +11,7 @@ var config = {
     theme: "light",
     alignment: "left",
     chapters: [
-        //TODO replace this data with data from the first point in your dataset
+        //Afro-Eurasia Overview
         {
             id: "48d352fe5c88b29680f9ce8d7a233191",
             title: "Introduction",
@@ -25,7 +25,7 @@ var config = {
             },
         },
 
-        //TODO Copy-paste more chapters here - one for each point in your dataset!
+        //THE NEW SILK ROAD: Zoom into Beijing, China
         {
             id: "5c76ad75992aaac989465955479e2fb4",
             title: "Beijing",
@@ -39,7 +39,7 @@ var config = {
             },
         },
 
-        //TODO Copy-paste more chapters here - one for each point in your dataset!
+        //THE NEW SILK ROAD: Xian, China
         {
             id: "7ba8dfb2d8196a463676254236476581",
             title: "The New Silk Road",
@@ -47,20 +47,104 @@ var config = {
             location: {
                 center: [103.706, 36.704],
                 zoom: 4.98,
-                pitch: 14.5,
-                bearing: 67.16,
+                pitch: 0,
+                bearing: 0,
             },
         },
-        //TODO Copy-paste more chapters here - one for each point in your dataset!
+        //THE NEW SILK ROAD: Almaty, Kazakhstan
         {
             id: "9e34f44c4e4aa2afecbf0e85c16e72af",
             title: "The New Silk Road",
             description: "Add text here",
             location: {
-                center: [35.41312, 31.84679],
-                zoom: 11.48,
-                pitch: 60,
-                bearing: -109.6,
+                center: [79.033, 42.101],
+                zoom: 5.04,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //THE NEW SILK ROAD: Samarkand, Uzekistan
+        {
+            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
+            title: "The New Silk Road",
+            description: "Add text here",
+            location: {
+                center: [79.033, 42.101],
+                zoom: 5.04,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //THE NEW SILK ROAD: Dushanbe, Tajikistan
+        {
+            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
+            title: "The New Silk Road",
+            description: "Add text here",
+            location: {
+                center: [79.033, 42.101],
+                zoom: 5.04,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //THE NEW SILK ROAD: Tehran, Iran
+        {
+            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
+            title: "The New Silk Road",
+            description: "Add text here",
+            location: {
+                center: [79.033, 42.101],
+                zoom: 5.04,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //THE NEW SILK ROAD: Istanbul, Turkey
+        {
+            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
+            title: "The New Silk Road",
+            description: "Add text here",
+            location: {
+                center: [79.033, 42.101],
+                zoom: 5.04,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //THE NEW SILK ROAD: Moscow, Russia
+        {
+            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
+            title: "The New Silk Road",
+            description: "Add text here",
+            location: {
+                center: [79.033, 42.101],
+                zoom: 5.04,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //THE NEW SILK ROAD: Dusseldorf, Germany
+        {
+            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
+            title: "The New Silk Road",
+            description: "Add text here",
+            location: {
+                center: [79.033, 42.101],
+                zoom: 5.04,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+        //THE NEW SILK ROAD: Venice, Italy
+        {
+            id: "9e34f44c4e4aa2afecbf0e85c16e72af",
+            title: "The New Silk Road",
+            description: "Add text here",
+            location: {
+                center: [79.033, 42.101],
+                zoom: 5.04,
+                pitch: 0,
+                bearing: 0,
             },
         },
     ],
