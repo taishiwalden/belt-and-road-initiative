@@ -57,8 +57,8 @@ var config = {
             title: "The New Silk Road",
             description: "Add text here",
             location: {
-                center: [79.033, 42.101],
-                zoom: 5.04,
+                center: [72.558, 45.62],
+                zoom: 5.19,
                 pitch: 0,
                 bearing: 0,
             },
@@ -69,8 +69,8 @@ var config = {
             title: "The New Silk Road",
             description: "Add text here",
             location: {
-                center: [79.033, 42.101],
-                zoom: 5.04,
+                center: [64.907, 40.488],
+                zoom: 5.78,
                 pitch: 0,
                 bearing: 0,
             },
@@ -81,8 +81,8 @@ var config = {
             title: "The New Silk Road",
             description: "Add text here",
             location: {
-                center: [79.033, 42.101],
-                zoom: 5.04,
+                center: [69.935, 38.483],
+                zoom: 6.59,
                 pitch: 0,
                 bearing: 0,
             },
@@ -93,8 +93,8 @@ var config = {
             title: "The New Silk Road",
             description: "Add text here",
             location: {
-                center: [79.033, 42.101],
-                zoom: 5.04,
+                center: [51.216, 36.101],
+                zoom: 7,
                 pitch: 0,
                 bearing: 0,
             },
