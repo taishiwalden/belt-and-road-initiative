@@ -70,6 +70,54 @@
                 "type": "Point"
             },
             "id": "9e34f44c4e4aa2afecbf0e85c16e72af"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Al-Aqsa Mosque",
+                "description": "Considered the third holiest site in Islam, located in Jerusalem"
+            },
+            "geometry": {
+                "coordinates": [35.235576, 31.77625],
+                "type": "Point"
+            },
+            "id": "9e34f44c4e4aa2afecbf0e85c16e72af"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Al-Aqsa Mosque",
+                "description": "Considered the third holiest site in Islam, located in Jerusalem"
+            },
+            "geometry": {
+                "coordinates": [35.235576, 31.77625],
+                "type": "Point"
+            },
+            "id": "9e34f44c4e4aa2afecbf0e85c16e72af"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Al-Aqsa Mosque",
+                "description": "Considered the third holiest site in Islam, located in Jerusalem"
+            },
+            "geometry": {
+                "coordinates": [35.235576, 31.77625],
+                "type": "Point"
+            },
+            "id": "9e34f44c4e4aa2afecbf0e85c16e72af"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Al-Aqsa Mosque",
+                "description": "Considered the third holiest site in Islam, located in Jerusalem"
+            },
+            "geometry": {
+                "coordinates": [35.235576, 31.77625],
+                "type": "Point"
+            },
+            "id": "9e34f44c4e4aa2afecbf0e85c16e72af"
         }
     ],
     "type": "FeatureCollection"
