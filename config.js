@@ -1,12 +1,12 @@
-// this is for the scrollytelling map
+// this is for the Belt And Road Initiative scrollytelling map
 
 var config = {
     style: "mapbox://styles/taishiwalden/ckzovzbqj000714qnd5m3cdcm", //TODO
     accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
     title: "The Belt and Road Initiative", //TODO
     subtitle: "The Impacts of the World’s Largest Infrastructure Project", //TODO
-    byline: "By Taishi Walden, Dave Moleske, Nate Constan", //TODO
-    footer: "©2022 Taishi Walden, Dave Moleske, Nate Constan",
+    byline: "By Taishi Walden", //TODO
+    footer: "©2022 Taishi Walden",
     showMarkers: false,
     theme: "light",
     alignment: "left",
